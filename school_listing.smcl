@@ -1,0 +1,801 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}27 Jun 2017, 18:12:43
+
+{com}. *************California***************
+
+. list BuildingName district_name City Treatment, sepby(Treatment)
+{txt}
+     {c TLC}{hline 52}{c -}{hline 21}{c -}{hline 17}{c -}{hline 10}{c TRC}
+     {c |} {res}                                      BuildingName         district_name              City   Treatm~t {txt}{c |}
+     {c LT}{hline 52}{c -}{hline 21}{c -}{hline 17}{c -}{hline 10}{c RT}
+  1. {c |} {res}Cesar E. Chavez Learning Academies-Academy of Scie   Los Angeles Unified      San Fernando          0 {txt}{c |}
+  2. {c |} {res}                           Los Angeles Senior High   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+  3. {c |} {res}                George Washington Preparatory High   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+  4. {c |} {res}Crenshaw Science, Technology, Engineering, Math an   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+  5. {c |} {res}                   Susan Miller Dorsey Senior High   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+  6. {c |} {res}                                   Centennial High       Compton Unified           Compton          0 {txt}{c |}
+  7. {c |} {res}                                     San Juan High      San Juan Unified    Citrus Heights          0 {txt}{c |}
+  8. {c |} {res}School of History and Dramatic Arts at Sonia Sotom   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+  9. {c |} {res}                              Helen Bernstein High   Los Angeles Unified         Hollywood          0 {txt}{c |}
+ 10. {c |} {res}                                   Emery Secondary         Emery Unified        Emeryville          0 {txt}{c |}
+ 11. {c |} {res}                                    John Muir High      Pasadena Unified          Pasadena          0 {txt}{c |}
+ 12. {c |} {res}                      Thomas Jefferson Senior High   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+ 13. {c |} {res}                     San Diego Business/Leadership     San Diego Unified         San Diego          0 {txt}{c |}
+ 14. {c |} {res}                       WESM Health/Sports Medicine   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+ 15. {c |} {res}Communication and Technology at Diego Rivera Learn   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+ 16. {c |} {res}Contreras Learning Center-Academic Leadership Comm   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+ 17. {c |} {res}                                   Sun Valley High   Los Angeles Unified        Sun Valley          0 {txt}{c |}
+ 18. {c |} {res}                   Dr. Maya Angelou Community High   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+ 19. {c |} {res}Science, Technology, Engineering, Arts and Mathema   Los Angeles Unified        South Gate          0 {txt}{c |}
+ 20. {c |} {res}                           Canoga Park Senior High   Los Angeles Unified       Canoga Park          0 {txt}{c |}
+ 21. {c |} {res}                           Manual Arts Senior High   Los Angeles Unified       Los Angeles          0 {txt}{c |}
+     {c LT}{hline 52}{c -}{hline 21}{c -}{hline 17}{c -}{hline 10}{c RT}
+ 22. {c |} {res}                    David Starr Jordan Senior High   Los Angeles Unified       Los Angeles          1 {txt}{c |}
+ 23. {c |} {res}                           East Valley Senior High   Los Angeles Unified   North Hollywood          1 {txt}{c |}
+ 24. {c |} {res}     Green Design at Diego Rivera Learning Complex   Los Angeles Unified       Los Angeles          1 {txt}{c |}
+ 25. {c |} {res}                          Santee Education Complex   Los Angeles Unified       Los Angeles          1 {txt}{c |}
+ 26. {c |} {res}Augustus F. Hawkins High A Critical Design and Gam   Los Angeles Unified       Los Angeles          1 {txt}{c |}
+ 27. {c |} {res}                               Sylmar Charter High   Los Angeles Unified            Sylmar          1 {txt}{c |}
+ 28. {c |} {res} Public Service Community at Diego Rivera Learning   Los Angeles Unified       Los Angeles          1 {txt}{c |}
+     {c BLC}{hline 52}{c -}{hline 21}{c -}{hline 17}{c -}{hline 10}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}27 Jun 2017, 18:12:59
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+{txt}resumed on:  {res}27 Jun 2017, 18:41:05
+
+{com}. ************Florida*****************
+
+. list SCHOOLNAME DISTRICTNAME City Treatment, sepby(Treatment)
+{txt}
+     {c TLC}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c TRC}
+     {c |} {res}                      SCHOOLNAME   DISTRICT~E                City   Treatm~t {txt}{c |}
+     {c LT}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c RT}
+  1. {c |} {res}    HOMESTEAD SENIOR HIGH SCHOOL         DADE           HOMESTEAD          1 {txt}{c |}
+  2. {c |} {res}    MIAMI CAROL CITY SENIOR HIGH         DADE       MIAMI GARDENS          1 {txt}{c |}
+  3. {c |} {res}MIAMI CENTRAL SENIOR HIGH SCHOOL         DADE               MIAMI          1 {txt}{c |}
+     {c LT}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c RT}
+  4. {c |} {res}MIAMI NORLAND SENIOR HIGH SCHOOL         DADE               MIAMI          0 {txt}{c |}
+     {c LT}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c RT}
+  5. {c |} {res}   NORTH MIAMI BEACH SENIOR HIGH         DADE   NORTH MIAMI BEACH          1 {txt}{c |}
+     {c LT}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c RT}
+  6. {c |} {res}   SOUTH DADE SENIOR HIGH SCHOOL         DADE           HOMESTEAD          0 {txt}{c |}
+     {c LT}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c RT}
+  7. {c |} {res}    MIAMI SOUTHRIDGE SENIOR HIGH         DADE               MIAMI          1 {txt}{c |}
+     {c LT}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c RT}
+  8. {c |} {res}      GLADES CENTRAL HIGH SCHOOL   PALM BEACH         BELLE GLADE          0 {txt}{c |}
+  9. {c |} {res}    BOYNTON BEACH COMMUNITY HIGH   PALM BEACH       BOYNTON BEACH          0 {txt}{c |}
+ 10. {c |} {res}  FOREST HILL COMMUNITY HIGH SCH   PALM BEACH     WEST PALM BEACH          0 {txt}{c |}
+ 11. {c |} {res}          LAKE WORTH HIGH SCHOOL   PALM BEACH          LAKE WORTH          0 {txt}{c |}
+ 12. {c |} {res}           STRANAHAN HIGH SCHOOL      BROWARD     FORT LAUDERDALE          0 {txt}{c |}
+     {c BLC}{hline 34}{c -}{hline 12}{c -}{hline 19}{c -}{hline 10}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}27 Jun 2017, 18:41:31
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+{txt}resumed on:  {res}27 Jun 2017, 18:49:32
+
+{com}. *******Maryland************
+
+. list SchoolName LEAName SchoolCity Treatment, sepby(Treatment)
+{txt}
+     {c TLC}{hline 32}{c -}{hline 17}{c -}{hline 41}{c -}{hline 10}{c TRC}
+     {c |} {res}                    SchoolName           LEAName                                SchoolCity   Treatm~t {txt}{c |}
+     {c LT}{hline 32}{c -}{hline 17}{c -}{hline 41}{c -}{hline 10}{c RT}
+  1. {c |} {res}Frederick Douglass High School   Prince George's   Frederick Douglass High, Upper Marlboro          1 {txt}{c |}
+  2. {c |} {res}  Fairmont Heights High School   Prince George's    Fairmont Heights High, Capitol Heights          1 {txt}{c |}
+  3. {c |} {res}     Surrattsville High School   Prince George's               Surrattsville High, Clinton          1 {txt}{c |}
+     {c LT}{hline 32}{c -}{hline 17}{c -}{hline 41}{c -}{hline 10}{c RT}
+  4. {c |} {res}         South Hagerstown High        Washington         South Hagerstown High, Hagerstown          0 {txt}{c |}
+  5. {c |} {res}         James M. Bennett High          Wicomico          James M. Bennett High, Salisbury          0 {txt}{c |}
+  6. {c |} {res}                 Wicomico High          Wicomico                  Wicomico High, Salisbury          0 {txt}{c |}
+     {c BLC}{hline 32}{c -}{hline 17}{c -}{hline 41}{c -}{hline 10}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}27 Jun 2017, 18:51:19
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}28 Jun 2017, 13:33:14
+
+{com}. **********Michigan***************
+
+. list BuildingName DistrictName City Treatment, sepby(Treatment)
+
+     {txt}{c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  1. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                        Union High School {txt}{c |} {res}                   Grand Rapids Public Schools {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}    GRAND RAPIDS                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  2. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                     Michigan Great Lakes Virtual Academy {txt}{c |} {res}          Michigan Great Lakes Virtual Academy {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}        MANISTEE                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  3. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                               Insight School of Michigan {txt}{c |} {res}                    Insight School of Michigan {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}         LANSING                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  4. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                       Truman High School {txt}{c |} {res}                        Taylor School District {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}          TAYLOR                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  5. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                Arts Academy in the Woods {txt}{c |} {res}                     Arts Academy in the Woods {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}          FRASER                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  6. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                   Bridgeport High School {txt}{c |} {res}Bridgeport-Spaulding Community School District {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}      BRIDGEPORT                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  7. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                           Taylor Preparatory High School {txt}{c |} {res}                Taylor Preparatory High School {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}          TAYLOR                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  8. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                 Washtenaw Alliance for Virtual Education {txt}{c |} {res}     Washtenaw ISD - District created from ISD {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}       YPSILANTI                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+  9. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                    Hamtramck High School {txt}{c |} {res}     Hamtramck, School District of the City of {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}       HAMTRAMCK                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 10. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                               Star International Academy {txt}{c |} {res}                    Star International Academy {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}DEARBORN HEIGHTS                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 11. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                  Clintondale High School {txt}{c |} {res}                 Clintondale Community Schools {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}CLINTON TOWNSHIP                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 12. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                           Innovation Central High School {txt}{c |} {res}                   Grand Rapids Public Schools {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}    GRAND RAPIDS                     {txt}{c |}                     {res}       0                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 13. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}Osborn Evergreen Academy of Design and Alternative Energy {txt}{c |} {res}     Detroit Public Schools Community District {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}         DETROIT                     {txt}{c |}                     {res}       1                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 14. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                          Riverside Academy - West Campus {txt}{c |} {res}                             Riverside Academy {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}        DEARBORN                     {txt}{c |}                     {res}       1                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 15. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                 Cornerstone Health and Technology School {txt}{c |} {res}      Cornerstone Health and Technology School {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}         DETROIT                     {txt}{c |}                     {res}       1                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 16. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                           Ypsilanti New Tech High School {txt}{c |} {res}                   Ypsilanti Community Schools {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}       YPSILANTI                     {txt}{c |}                     {res}       1                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 17. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}                                       ACTech High School {txt}{c |} {res}                   Ypsilanti Community Schools {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}       YPSILANTI                     {txt}{c |}                     {res}       1                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+     {c TLC}{hline 59}{c TT}{hline 48}{c TRC}
+ 18. {c |}                                              BuildingName {c |}                                   DistrictName {c |}
+     {c |} {res}       Detroit Edison Public School Academy - High School {txt}{c |} {res}          Detroit Edison Public School Academy {txt}{c |}
+     {c LT}{hline 57}{c TT}{hline 1}{c BT}{hline 48}{c RT}
+     {c |}                                City                     {c |}                     Treatm~t                     {c |}
+     {c |}                    {res}         DETROIT                     {txt}{c |}                     {res}       1                     {txt}{c |}
+     {c BLC}{hline 57}{c BT}{hline 50}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}28 Jun 2017, 13:36:30
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}28 Jun 2017, 13:47:01
+
+{com}. **************Missouri*******************
+
+. list SCHOOL_NAME DISTRICT_NAME City Treatment, sepby(Treatment)
+{txt}
+     {c TLC}{hline 28}{c -}{hline 32}{c -}{hline 13}{c -}{hline 10}{c TRC}
+     {c |} {res}               SCHOOL_NAME                    DISTRICT_NAME          City   Treatm~t {txt}{c |}
+     {c LT}{hline 28}{c -}{hline 32}{c -}{hline 13}{c -}{hline 10}{c RT}
+  1. {c |} {res}        RUSKIN HIGH SCHOOL                HICKMAN MILLS C-1   KANSAS CITY          1 {txt}{c |}
+     {c LT}{hline 28}{c -}{hline 32}{c -}{hline 13}{c -}{hline 10}{c RT}
+  2. {c |} {res}          RAYTOWN SR. HIGH                      RAYTOWN C-2       RAYTOWN          0 {txt}{c |}
+  3. {c |} {res}    HAZELWOOD CENTRAL HIGH                        HAZELWOOD    FLORISSANT          0 {txt}{c |}
+  4. {c |} {res}        MCCLUER NORTH HIGH         FERGUSON-FLORISSANT R-II    FLORISSANT          0 {txt}{c |}
+     {c LT}{hline 28}{c -}{hline 32}{c -}{hline 13}{c -}{hline 10}{c RT}
+  5. {c |} {res}             NORMANDY HIGH   NORMANDY SCHOOLS COLLABORATIVE      ST LOUIS          1 {txt}{c |}
+     {c LT}{hline 28}{c -}{hline 32}{c -}{hline 13}{c -}{hline 10}{c RT}
+  6. {c |} {res}RIVERVIEW GARDENS SR. HIGH                RIVERVIEW GARDENS      ST LOUIS          0 {txt}{c |}
+     {c BLC}{hline 28}{c -}{hline 32}{c -}{hline 13}{c -}{hline 10}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}28 Jun 2017, 13:49:59
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+{txt}resumed on:  {res}28 Jun 2017, 14:11:07
+
+{com}. *******New York********
+
+. list LOCATIONNAME DISTRICTNAME City Treatment, sepby(Treatment)
+{txt}
+     {c TLC}{hline 38}{c -}{hline 31}{c -}{hline 21}{c -}{hline 10}{c TRC}
+     {c |} {res}                        LOCATIONNAME                    DISTRICTNAME                  City   Treatm~t {txt}{c |}
+     {c LT}{hline 38}{c -}{hline 31}{c -}{hline 21}{c -}{hline 10}{c RT}
+  1. {c |} {res}       BRONX SCHOOL OF LAW & FINANCE       NYC GEOG DIST #10 - BRONX                 BRONX          0 {txt}{c |}
+  2. {c |} {res}       NORTHSIDE CHARTER HIGH SCHOOL          NORTHSIDE CHARTER HIGH              BROOKLYN          0 {txt}{c |}
+  3. {c |} {res}                FLUSHING HIGH SCHOOL      NYC GEOG DIST #25 - QUEENS              FLUSHING          0 {txt}{c |}
+  4. {c |} {res}    BRONX EARLY COL ACAD-TEACH/LEARN       NYC GEOG DIST # 9 - BRONX                 BRONX          0 {txt}{c |}
+  5. {c |} {res}         RENAISSANCE HIGH SCHOOL-MTT       NYC GEOG DIST # 8 - BRONX                 BRONX          0 {txt}{c |}
+  6. {c |} {res}   SCHOOL 58-WORLD OF INQUIRY SCHOOL                       ROCHESTER             ROCHESTER          0 {txt}{c |}
+  7. {c |} {res}   DEPOSIT MIDDLE-SENIOR HIGH SCHOOL                         DEPOSIT               DEPOSIT          0 {txt}{c |}
+  8. {c |} {res}PATHWAYS TECH EARLY COLLEGE HIGH SCH    NYC GEOG DIST #17 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+  9. {c |} {res}  ELIZABETHTOWN-LEWIS CENTRAL SCHOOL                   ELIZABETHTOWN         ELIZABETHTOWN          0 {txt}{c |}
+ 10. {c |} {res} GLOBAL LEARNING COLLABORATIVE (THE)   NYC GEOG DIST # 3 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 11. {c |} {res}           NORTH BABYLON HIGH SCHOOL                   NORTH BABYLON         NORTH BABYLON          0 {txt}{c |}
+ 12. {c |} {res}               PARK SLOPE COLLEGIATE    NYC GEOG DIST #15 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 13. {c |} {res}        CITY POLYTECHNIC HIGH SCHOOL    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 14. {c |} {res}       SPENCER-VAN ETTEN HIGH SCHOOL               SPENCER VAN ETTEN               SPENCER          0 {txt}{c |}
+ 15. {c |} {res}          RENAISSANCE CHARTER SCHOOL      RENAISSANCE CHARTER SCHOOL       JACKSON HEIGHTS          0 {txt}{c |}
+ 16. {c |} {res}       LAKE SHORE SENIOR HIGH SCHOOL                     EVANS-BRANT                ANGOLA          0 {txt}{c |}
+ 17. {c |} {res}        LIVINGSTON MANOR HIGH SCHOOL                LIVINGSTON MANOR      LIVINGSTON MANOR          0 {txt}{c |}
+ 18. {c |} {res}          OPPORTUNITY CHARTER SCHOOL      OPPORTUNITY CHARTER SCHOOL              NEW YORK          0 {txt}{c |}
+ 19. {c |} {res}           ACADEMY FOR SOCIAL ACTION   NYC GEOG DIST # 5 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 20. {c |} {res}     BUFFALO ACADEMY-VIS & PERF ARTS                         BUFFALO               BUFFALO          0 {txt}{c |}
+ 21. {c |} {res}         MALVERNE SENIOR HIGH SCHOOL                        MALVERNE              MALVERNE          0 {txt}{c |}
+ 22. {c |} {res}       FREDERICK DOUGLASS ACAD VI HS     NYC GEOG DIST #27  - QUEENS          FAR ROCKAWAY          0 {txt}{c |}
+ 23. {c |} {res}     EAGLE ACADEMY FOR YOUNG MEN III      NYC GEOG DIST #29 - QUEENS               JAMAICA          0 {txt}{c |}
+ 24. {c |} {res}LEADERSHIP & PUBLIC SERVICE HIGH SCH   NYC GEOG DIST # 2 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 25. {c |} {res}    MORRIS ACADEMY FOR COLLA STUDIES       NYC GEOG DIST # 9 - BRONX                 BRONX          0 {txt}{c |}
+ 26. {c |} {res}         NEWFIELD SENIOR HIGH SCHOOL                        NEWFIELD              NEWFIELD          0 {txt}{c |}
+ 27. {c |} {res}       SYRACUSE ACAD-SCI CHARTER SCH    SYRACUSE ACAD-SCI CHARTER SC              SYRACUSE          0 {txt}{c |}
+ 28. {c |} {res}           BRONX PREP CHARTER SCHOOL       BRONX PREP CHARTER SCHOOL                 BRONX          0 {txt}{c |}
+ 29. {c |} {res}  HUDSON HS OF LEARNING TECHNOLOGIES   NYC GEOG DIST # 2 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 30. {c |} {res}               MILLENIUM ART ACADEMY       NYC GEOG DIST # 8 - BRONX                 BRONX          0 {txt}{c |}
+ 31. {c |} {res}            FOREST HILLS HIGH SCHOOL      NYC GEOG DIST #28 - QUEENS          FOREST HILLS          0 {txt}{c |}
+ 32. {c |} {res}           BRONX THEATRE HIGH SCHOOL       NYC GEOG DIST #10 - BRONX                 BRONX          0 {txt}{c |}
+ 33. {c |} {res}      WYANDANCH MEMORIAL HIGH SCHOOL                       WYANDANCH             WYANDANCH          0 {txt}{c |}
+ 34. {c |} {res}         ACORN COMMUNITY HIGH SCHOOL    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 35. {c |} {res}             TAPESTRY CHARTER SCHOOL         TAPESTRY CHARTER SCHOOL               BUFFALO          0 {txt}{c |}
+ 36. {c |} {res}      EAGLE ACADEMY FOR YOUNG MEN II    NYC GEOG DIST #23 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 37. {c |} {res}           AUGUST MARTIN HIGH SCHOOL     NYC GEOG DIST #27  - QUEENS               JAMAICA          0 {txt}{c |}
+ 38. {c |} {res}    SCH FOR CLASSICS: AN ACADEMY-TWP    NYC GEOG DIST #19 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 39. {c |} {res}       SCHOOL FOR DEMOCRACY & LDRSHP    NYC GEOG DIST #17 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 40. {c |} {res}       EMERSON SCHOOL OF HOSPITALITY                         BUFFALO               BUFFALO          0 {txt}{c |}
+ 41. {c |} {res}            SALMON RIVER HIGH SCHOOL                    SALMON RIVER        FORT COVINGTON          0 {txt}{c |}
+ 42. {c |} {res}    ACADEMY OF INNOVATIVE TECHNOLOGY    NYC GEOG DIST #19 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 43. {c |} {res}                URBAN ACTION ACADEMY    NYC GEOG DIST #18 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 44. {c |} {res}   BRONX HEALTH SCIENCES HIGH SCHOOL       NYC GEOG DIST #11 - BRONX                 BRONX          0 {txt}{c |}
+ 45. {c |} {res}URBAN ASSEMBLY INST OF MATH AND SCIE    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 46. {c |} {res}           ACADEMY FOR YOUNG WRITERS    NYC GEOG DIST #19 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 47. {c |} {res}    HIGH SCHOOL-YOUTH & COMM DVLPMNT    NYC GEOG DIST #17 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 48. {c |} {res}    HIGH SCHOOL OF SPORTS MANAGEMENT    NYC GEOG DIST #21 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 49. {c |} {res}     BUFFALO ACAD-SCI CHARTER SCHOOL    BUFFALO ACAD-SCI CHARTER SCH               BUFFALO          0 {txt}{c |}
+ 50. {c |} {res}MATH SCIENCE TECH PREP SCHOOL-SENECA                         BUFFALO               BUFFALO          0 {txt}{c |}
+ 51. {c |} {res}               ORACLE CHARTER SCHOOL           ORACLE CHARTER SCHOOL               BUFFALO          0 {txt}{c |}
+ 52. {c |} {res}WALTER G O'CONNELL COPIAGUE HIGH SCH                        COPIAGUE              COPIAGUE          0 {txt}{c |}
+ 53. {c |} {res}     WORLD ACAD FOR TOTAL COM HEALTH    NYC GEOG DIST #19 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 54. {c |} {res}    DR SUSAN S MCKINNEY SEC SCH-ARTS    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 55. {c |} {res} HS FOR PUBLIC SERVICE-HEROES OF TOM    NYC GEOG DIST #17 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 56. {c |} {res}     WILLIAM E GRADY CAREER AND TECH    NYC GEOG DIST #21 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 57. {c |} {res}        URBAN SCH-BUSINESS-YNG WOMEN   NYC GEOG DIST # 2 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 58. {c |} {res}  KURT HAHN EXPEDITIONARY LRNING SCH    NYC GEOG DIST #18 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 59. {c |} {res}    ROCHESTER ACADEMY CHARTER SCHOOL    ROCHESTER ACADEMY CHARTER SC             ROCHESTER          0 {txt}{c |}
+ 60. {c |} {res}      HEALTH SCIENCES CHARTER SCHOOL    HEALTH SCIENCES CHARTER SCHO               BUFFALO          0 {txt}{c |}
+ 61. {c |} {res}  BROOKLYN COMM HS-COMM, ARTS, MEDIA    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 62. {c |} {res}   BROOKLYN HIGH SCHOOL-LAW AND TECH    NYC GEOG DIST #16 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 63. {c |} {res}ACAD FOR COLLEGE PREP AND CAREER EXP    NYC GEOG DIST #17 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 64. {c |} {res}     YOUNG WOMEN'S LRDSHP SCH-QUEENS      NYC GEOG DIST #28 - QUEENS               JAMAICA          0 {txt}{c |}
+ 65. {c |} {res}    HIGH SCHOOL OF HOSPITALITY MGMNT   NYC GEOG DIST # 2 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 66. {c |} {res}    CHANNEL VIEW SCHOOL FOR RESEARCH     NYC GEOG DIST #27  - QUEENS         ROCKAWAY PARK          0 {txt}{c |}
+ 67. {c |} {res}   SCIENCE SKILLS CENTER HIGH SCHOOL    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 68. {c |} {res}     AMITYVILLE MEMORIAL HIGH SCHOOL                      AMITYVILLE            AMITYVILLE          0 {txt}{c |}
+ 69. {c |} {res}       HS-LAW ENFORCMNT & PUB SAFETY      NYC GEOG DIST #28 - QUEENS               JAMAICA          0 {txt}{c |}
+ 70. {c |} {res}      VICTORY COLLEGIATE HIGH SCHOOL    NYC GEOG DIST #18 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 71. {c |} {res}         EAGLE ACADEMY FOR YOUNG MEN       NYC GEOG DIST # 9 - BRONX                 BRONX          0 {txt}{c |}
+ 72. {c |} {res} THURGOOD MARSHALL ACAD FOR LEARNING   NYC GEOG DIST # 5 - MANHATTAN              NEW YORK          0 {txt}{c |}
+ 73. {c |} {res}          EXCELSIOR PREP HIGH SCHOOL      NYC GEOG DIST #29 - QUEENS   SPRINGFIELD GARDENS          0 {txt}{c |}
+ 74. {c |} {res}            MCKINLEY VOC HIGH SCHOOL                         BUFFALO               BUFFALO          0 {txt}{c |}
+ 75. {c |} {res}         GEORGE WASHINGTON CARVER HS      NYC GEOG DIST #29 - QUEENS   SPRINGFIELD GARDENS          0 {txt}{c |}
+ 76. {c |} {res} HIGH SCHOOL FOR MEDICAL PROFESSIONS    NYC GEOG DIST #18 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 77. {c |} {res}    BROOKLYN HIGH SCHOOL OF THE ARTS    NYC GEOG DIST #15 - BROOKLYN              BROOKLYN          0 {txt}{c |}
+ 78. {c |} {res}            PREP ACADEMY FOR WRITERS      NYC GEOG DIST #29 - QUEENS   SPRINGFIELD GARDENS          0 {txt}{c |}
+ 79. {c |} {res}      MURRY BERGTRAUM HS FOR BUS CAR   NYC GEOG DIST # 2 - MANHATTAN              NEW YORK          0 {txt}{c |}
+     {c LT}{hline 38}{c -}{hline 31}{c -}{hline 21}{c -}{hline 10}{c RT}
+ 80. {c |} {res}    TRANSIT TECH CAREER AND TECH EDU    NYC GEOG DIST #19 - BROOKLYN              BROOKLYN          1 {txt}{c |}
+ 81. {c |} {res}  GEORGE WESTINGHOUSE CAREER/TECH HS    NYC GEOG DIST #13 - BROOKLYN              BROOKLYN          1 {txt}{c |}
+ 82. {c |} {res} COBBLE HILL SCHOOL OF AMERICAN STUD    NYC GEOG DIST #15 - BROOKLYN              BROOKLYN          1 {txt}{c |}
+ 83. {c |} {res}                   QUEENS COLLEGIATE      NYC GEOG DIST #28 - QUEENS               JAMAICA          1 {txt}{c |}
+ 84. {c |} {res}         HUMANITIES & ARTS MAGNET HS      NYC GEOG DIST #29 - QUEENS       CAMBRIA HEIGHTS          1 {txt}{c |}
+ 85. {c |} {res} PATHWAYS COLLEGE PREPARATORY SCHOOL      NYC GEOG DIST #29 - QUEENS          SAINT ALBANS          1 {txt}{c |}
+ 86. {c |} {res}     LIFE ACAD HS FOR FILM AND MUSIC    NYC GEOG DIST #21 - BROOKLYN              BROOKLYN          1 {txt}{c |}
+ 87. {c |} {res}                 QUEENS PREP ACADEMY      NYC GEOG DIST #29 - QUEENS   SPRINGFIELD GARDENS          1 {txt}{c |}
+ 88. {c |} {res}   MATH/SCIENCE RESEARCH/TECH MAGNET      NYC GEOG DIST #29 - QUEENS       CAMBRIA HEIGHTS          1 {txt}{c |}
+ 89. {c |} {res}        HS FOR LAW ADVCY & COMM JUST   NYC GEOG DIST # 3 - MANHATTAN              NEW YORK          1 {txt}{c |}
+ 90. {c |} {res}       WOMEN'S ACADEMY OF EXCELLENCE       NYC GEOG DIST # 8 - BRONX                 BRONX          1 {txt}{c |}
+ 91. {c |} {res}   AMERICAN SIGN LANG & ENG SECONDAR   NYC GEOG DIST # 2 - MANHATTAN              NEW YORK          1 {txt}{c |}
+     {c BLC}{hline 38}{c -}{hline 31}{c -}{hline 21}{c -}{hline 10}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}28 Jun 2017, 14:13:56
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+{txt}resumed on:  {res}28 Jun 2017, 14:19:08
+
+{com}. **********Ohio***************
+
+. list SchoolName dist_name CITY Treatment, sepby(Treatment)
+{txt}
+     {c TLC}{hline 10}{c -}{hline 10}{c -}{hline 6}{c -}{hline 10}{c TRC}
+     {c |} {res}School~e   dist_n~e   CITY   Treatm~t {txt}{c |}
+     {c LT}{hline 10}{c -}{hline 10}{c -}{hline 6}{c -}{hline 10}{c RT}
+  1. {c |} {res}       .          .      .          1 {txt}{c |}
+  2. {c |} {res}       .          .      .          1 {txt}{c |}
+  3. {c |} {res}       .          .      .          1 {txt}{c |}
+     {c LT}{hline 10}{c -}{hline 10}{c -}{hline 6}{c -}{hline 10}{c RT}
+  4. {c |} {res}       .          .      .          0 {txt}{c |}
+  5. {c |} {res}       .          .      .          0 {txt}{c |}
+  6. {c |} {res}       .          .      .          0 {txt}{c |}
+  7. {c |} {res}       .          .      .          0 {txt}{c |}
+  8. {c |} {res}       .          .      .          0 {txt}{c |}
+  9. {c |} {res}       .          .      .          0 {txt}{c |}
+ 10. {c |} {res}       .          .      .          0 {txt}{c |}
+ 11. {c |} {res}       .          .      .          0 {txt}{c |}
+ 12. {c |} {res}       .          .      .          0 {txt}{c |}
+ 13. {c |} {res}       .          .      .          0 {txt}{c |}
+     {c BLC}{hline 10}{c -}{hline 10}{c -}{hline 6}{c -}{hline 10}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}28 Jun 2017, 14:20:45
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}28 Jun 2017, 17:55:46
+
+{com}. *****Ohio********
+
+. list SchoolName dist_name CITY Treatment, sepby(Treatment)
+
+     {txt}{c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  1. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}             Woodward Career Technical High School {txt}{c |} {res}                    Cincinnati City {txt}{c |} {res}    Cincinnati {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  2. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}              Western Hills University High School {txt}{c |} {res}                    Cincinnati City {txt}{c |} {res}    Cincinnati {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  3. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                                 Start High School {txt}{c |} {res}                        Toledo City {txt}{c |} {res}        Toledo {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  4. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                                 South High School {txt}{c |} {res}      Columbus City School District {txt}{c |} {res}      Columbus {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  5. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                                  Shaw High School {txt}{c |} {res}East Cleveland City School District {txt}{c |} {res}East Cleveland {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  6. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}Robert A. Taft Information Technology  High School {txt}{c |} {res}                    Cincinnati City {txt}{c |} {res}    Cincinnati {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  7. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                            John Adams High School {txt}{c |} {res}                Cleveland Municipal {txt}{c |} {res}     Cleveland {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  8. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                        Jesup W. Scott High School {txt}{c |} {res}                        Toledo City {txt}{c |} {res}        Toledo {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+  9. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                           Hughes STEM High School {txt}{c |} {res}                    Cincinnati City {txt}{c |} {res}    Cincinnati {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+ 10. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                      Gilbert A. Dater High School {txt}{c |} {res}                    Cincinnati City {txt}{c |} {res}    Cincinnati {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+ 11. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                                  East High School {txt}{c |} {res}                    Youngstown City {txt}{c |} {res}    Youngstown {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+ 12. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                    East Community Learning Center {txt}{c |} {res}                         Akron City {txt}{c |} {res}         Akron {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+     {c TLC}{hline 52}{c TT}{hline 37}{c TT}{hline 16}{c TRC}
+ 13. {c |}                                         SchoolName {c |}                           dist_name {c |}           CITY {c |}
+     {c |} {res}                                 Aiken High School {txt}{c |} {res}                    Cincinnati City {txt}{c |} {res}    Cincinnati {txt}{c |}
+     {c LT}{hline 52}{c BT}{hline 37}{c BT}{hline 16}{c RT}
+     {c |}                                                 Treatm~t                                                  {c |}
+     {c |}                                                 {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 107}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}28 Jun 2017, 17:58:16
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+{txt}resumed on:  {res}28 Jun 2017, 18:12:43
+
+{com}. ***************South Carolina****************
+
+. list locname distname city Treatment,sepby(Treatment)
+
+     {txt}{c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  1. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}             No. Charleston High {txt}{c |} {res}                                             CHARLESTON {txt}{c |} {res}N. Charleston {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  2. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}             Gaffney High School {txt}{c |} {res}                                               CHEROKEE {txt}{c |} {res}       Gafney {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  3. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}             Chester Senior High {txt}{c |} {res}                         CHESTER COUNTY SCHOOL DISTRICT {txt}{c |} {res}      Chester {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  4. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}           Lake City High School {txt}{c |} {res}                         FLORENCE SCHOOL DISTRICT THREE {txt}{c |} {res}    Lake City {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  5. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}        Timmonsville High School {txt}{c |} {res}                   FLORENCE COUNTY SCHOOL DISTRICT FOUR {txt}{c |} {res} Timmonsville {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  6. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}         Carvers Bay High School {txt}{c |} {res}                              GEORGETOWN COUNTY SCHOOLS {txt}{c |} {res}    Hemingway {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  7. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}Carolina High School and Academy {txt}{c |} {res}                              GREENVILLE COUNTY SCHOOLS {txt}{c |} {res}   Greenville {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  8. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}           Legacy Charter School {txt}{c |} {res}                              GREENVILLE COUNTY SCHOOLS {txt}{c |} {res}   Greenville {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+  9. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}                Ware Shoals High {txt}{c |} {res}                           GREENWOOD SCHOOL DISTRICT 51 {txt}{c |} {res}  Ware Shoals {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 10. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}     Brookland-Cayce High School {txt}{c |} {res}                   LEXINGTON COUNTY SCHOOL DISTRICT TWO {txt}{c |} {res}        Cayce {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 11. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}                Irmo High School {txt}{c |} {res}SCHOOL DISTRICT FIVE OF LEXINGTON AND RICHLAND COUNTIES {txt}{c |} {res}     Columbia {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 12. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}           McCormick High School {txt}{c |} {res}                       MCCORMICK COUNTY SCHOOL DISTRICT {txt}{c |} {res}    McCormick {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 13. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}             Mullins High School {txt}{c |} {res}                          MARION COUNTY SCHOOL DISTRICT {txt}{c |} {res}      Mullins {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 14. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res} Hunter-Kinard-Tyler High School {txt}{c |} {res}           ORANGEBURG CONSOLIDATED SCHOOL DISTRICT FOUR {txt}{c |} {res}       Neeses {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 15. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}Orangeburg Wilkinson High School {txt}{c |} {res}           ORANGEBURG CONSOLIDATED SCHOOL DISTRICT FIVE {txt}{c |} {res}   Orangeburg {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 16. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}                          DREHER {txt}{c |} {res}                           RICHLAND SCHOOL DISTRICT ONE {txt}{c |} {res}     Columbia {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 17. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}                      EAU CLAIRE {txt}{c |} {res}                           RICHLAND SCHOOL DISTRICT ONE {txt}{c |} {res}     Columbia {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 18. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}                     A. C. FLORA {txt}{c |} {res}                           RICHLAND SCHOOL DISTRICT ONE {txt}{c |} {res}     Columbia {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 19. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}             Lower Richland High {txt}{c |} {res}                           RICHLAND SCHOOL DISTRICT ONE {txt}{c |} {res}      Hopkins {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       1                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 20. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}               C. E. Murray High {txt}{c |} {res}                    WILLIAMSBURG COUNTY SCHOOL DISTRICT {txt}{c |} {res} Greeleyville {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 21. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}       SC Virtual Charter School {txt}{c |} {res}          SOUTH CAROLINA PUBLIC CHARTER SCHOOL DISTRICT {txt}{c |} {res}     Columbia {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 22. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}       Battery Creek High School {txt}{c |} {res}                        BEAUFORT COUNTY SCHOOL DISTRICT {txt}{c |} {res}     Beaufort {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 23. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}            Berkeley High School {txt}{c |} {res}                        BERKELEY COUNTY SCHOOL DISTRICT {txt}{c |} {res}Moncks Corner {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+     {c TLC}{hline 34}{c TT}{hline 57}{c TT}{hline 15}{c TRC}
+ 24. {c |}                          locname {c |}                                                distname {c |}          city {c |}
+     {c |} {res}          Timberland High School {txt}{c |} {res}                        BERKELEY COUNTY SCHOOL DISTRICT {txt}{c |} {res}  St. Stephen {txt}{c |}
+     {c LT}{hline 34}{c BT}{hline 57}{c BT}{hline 15}{c RT}
+     {c |}                                                  Treatm~t                                                  {c |}
+     {c |}                                                  {res}       0                                                  {txt}{c |}
+     {c BLC}{hline 108}{c BRC}
+
+{com}. log off
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\scottpw\Desktop\Consults\CollegeSummit\school_listing.smcl
+  {txt}log type:  {res}smcl
+ {txt}paused on:  {res}28 Jun 2017, 18:14:52
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
